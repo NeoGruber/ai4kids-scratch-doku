@@ -1,0 +1,6 @@
+site_name: AI4Kids
+nav:
+  - Home: index.md
+  - Projekt 1: project_1.md
+  - Projekt 2: project_2.md
+theme: readthedocs
