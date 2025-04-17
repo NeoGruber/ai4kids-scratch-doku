@@ -1,15 +1,39 @@
-## AI4Kids – Applied Computer Science for Children
+## AI4Kids – Angewandte Informatik für Kinder
 
-**AI4Kids** is a project by the University of Applied Sciences Erfurt that offers free workshops for children and teenagers aged 9–17. The goal is to introduce young people to computer science through fun, hands-on activities.
+**AI4Kids** ist ein Projekt der Hochschule Erfurt, Fachrichtung Angewandte Informatik. Es bietet kostenlose Workshops für Kinder und Jugendliche im Alter von 9 bis 17 Jahren an. Ziel ist es, spielerisch Interesse an Informatik zu wecken.
 
-### Courses
+### Kursangebote
 
-- **Course A**: LEGO® Mindstorms – Build and program robots (ages 9–10)
-- **Course B**: Scratch® – Create games and animations (ages 11–12)
-- **Course C**: Minecraft® with Java – Modding and programming (ages 14–15)
+- **Kurs A**: LEGO® Mindstorms – Roboter bauen und programmieren (Alter 9–10)
+- **Kurs B**: Scratch® – Spiele und Animationen erstellen (Alter 11–12)
+- **Kurs C**: Minecraft® mit Java – Modding und Programmierung (Alter 14–15)
 
-Each course runs over six weeks with 1.5-hour sessions weekly. Bachelor students from the Applied Computer Science program design and lead the courses.
+Jeder Kurs besteht aus sechs wöchentlichen Einheiten à 1,5 Stunden. Die Kurse werden von Bachelor-Studierenden der Angewandten Informatik entwickelt und durchgeführt.
 
 **Website**: [https://ai.fh-erfurt.de/ai4kids](https://ai.fh-erfurt.de/ai4kids)  
-**Email**: [sekretariat-ai@fh-erfurt.de](mailto:sekretariat-ai@fh-erfurt.de)  
-**Phone**: +49 361 6700-5510
+**E-Mail**: [sekretariat-ai@fh-erfurt.de](mailto:sekretariat-ai@fh-erfurt.de)  
+**Telefon**: +49 361 6700-5510
+
+### Ablauf des Scratch®-Kurses bei AI4Kids
+
+Der Scratch-Kurs richtet sich an Kinder im Alter von 8 bis 14 Jahren und vermittelt spielerisch Grundlagen der Programmierung durch eigene Projekte. Der Kurs umfasst sechs Einheiten:
+
+### Kursverlauf
+
+1. **Kennenlernen & Einstieg**  
+   Vorstellung, organisatorische Infos und erstes Mini-Projekt zur Einführung.
+
+2. **Scratch-Grundlagen I**  
+   Einführung in die Benutzeroberfläche und grundlegende Konzepte anhand eines kleinen Projekts.
+
+3. **Scratch-Grundlagen II**  
+   Vertiefung der Konzepte und Umsetzung eines weiteren Mini-Projekts.
+
+4. **Freies Projekt – Teil 1**  
+   Die Teilnehmenden beginnen mit der Planung und Umsetzung eines eigenen Projekts.
+
+5. **Freies Projekt – Teil 2**  
+   Weiterentwicklung und Umsetzung des eigenen Projekts mit individueller Betreuung.
+
+6. **Projektabschluss & Präsentation**  
+   Feinschliff am eigenen Projekt und Präsentation vor der Gruppe.
