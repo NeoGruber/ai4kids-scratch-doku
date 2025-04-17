@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>Projekt 1 - AI4Kids</title>
+    <title>Anleitung um Github zu aktualisieren - AI4Kids</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Projekt 1";
-        var mkdocs_page_input_path = "project_1.md";
+        var mkdocs_page_name = "Anleitung um Github zu aktualisieren";
+        var mkdocs_page_input_path = "usage_guide.md";
         var mkdocs_page_url = null;
       </script>
     
@@ -43,10 +43,8 @@
                 <li class="toctree-l1"><a class="reference internal" href="..">AI4Kids Doku</a>
                 </li>
               </ul>
-              <ul class="current">
-                <li class="toctree-l1 current"><a class="reference internal current" href="#">Projekt 1</a>
-    <ul class="current">
-    </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../project_1/">Projekt 1</a>
                 </li>
               </ul>
               <ul>
@@ -71,7 +69,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
-      <li class="breadcrumb-item active">Projekt 1</li>
+      <li class="breadcrumb-item active">Anleitung um Github zu aktualisieren</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -80,18 +78,32 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="projekt-1">Projekt 1</h1>
-<p>test foo bar
-- foo
-- bar</p>
-<h1 id="hallo-welt">hallo welt</h1>
+                <h1 id="anleitung-um-github-zu-aktualisieren">Anleitung um Github zu aktualisieren</h1>
+<ol>
+<li>Unter <code>docs</code> neues markdown file hinzfügen.</li>
+<li>Innerhalb der <code>mkdocs.yml</code> die neue markdown datei eintragen: </li>
+</ol>
+<pre><code>site_name: AI4Kids
+nav:
+  - Home: index.md
+  - Projekt 1: project_1.md
+  - Projekt 2: project_2.md
+  - Deine neue Seite: foo.md # hier fügst du die Seite hinzu
+theme: readthedocs
+</code></pre>
+<ol>
+<li>Schauen wie es aussieht: <code>mkdocs serve</code> und unter <code>http://127.0.0.1:8000/</code> ansehen</li>
+<li>Die Seite builden: <code>mkdocs build</code></li>
+<li>Auf github pushen: <code>git add .</code> und <code>git commit -m "commit message"</code> und </li>
+</ol>
+<pre><code>mkdocs gh-deploy --config-file ./mkdocs.yml --remote-branch documentation
+</code></pre>
+<ol>
+<li>Changes auf https://neogruber.github.io/ai4kids-scratch-doku/ ansehen</li>
+</ol>
               
             </div>
           </div><footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href=".." class="btn btn-neutral float-left" title="AI4Kids Doku"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../project_2/" class="btn btn-neutral float-right" title="Projekt 2">Next <span class="icon icon-circle-arrow-right"></span></a>
-    </div>
 
   <hr/>
 
@@ -113,10 +125,6 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href=".." style="color: #fcfcfc">&laquo; Previous</a></span>
-    
-    
-      <span><a href="../project_2/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
