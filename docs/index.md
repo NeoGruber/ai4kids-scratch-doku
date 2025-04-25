@@ -16,7 +16,7 @@ Jeder Kurs besteht aus sechs wöchentlichen Einheiten à 1,5 Stunden. Die Kurse 
 
 ### Ablauf des Scratch®-Kurses bei AI4Kids
 
-Der Scratch-Kurs richtet sich an Kinder im Alter von 8 bis 14 Jahren und vermittelt spielerisch Grundlagen der Programmierung durch eigene Projekte. Der Kurs umfasst sechs Einheiten:
+Der Scratch-Kurs richtet sich an Kinder im Alter von 11 bis 12 Jahren und vermittelt spielerisch Grundlagen der Programmierung durch eigene Projekte. Der Kurs umfasst sechs Einheiten:
 
 ### Kursverlauf
 

@@ -1,6 +1,7 @@
 site_name: AI4Kids
 nav:
-  - AI4Kids Doku: index.md
+  - AI4Kids: index.md
+  - Betreuer Steckbriefe: profiles.md
   - Projekt 1: project_1.md
   - Projekt 2: project_2.md
   - Deine neue Seite: foo.md # hier fügst du die Seite hinzu
